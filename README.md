@@ -1,6 +1,6 @@
-# Stock Price Prediction using Linear Regression
+# Stock Price Prediction using Machine Learning
 
-This project implements stock price prediction using linear regression techniques. The model predicts stock prices based on features like open, high, and low prices using historical stock data.
+This project implements stock price prediction using linear and logistic regression techniques. The model predicts stock prices based on features like open, high, and low prices using historical stock data.
 
 ## Project Overview
 
